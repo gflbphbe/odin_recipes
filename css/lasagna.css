@@ -7,6 +7,7 @@ h1 {
 .pizza,
 .butter-chicken {
     text-align: center;
+    font-size: large;
 }
 
  div img {
@@ -15,3 +16,27 @@ h1 {
 
 }
     
+.description-title,
+.ingredients,
+.directions,
+.layer,
+.cook,
+.serve {
+    color: red;
+    
+}
+
+.description-para {
+    color: white;
+}
+
+span {
+    color: white;
+    
+}
+
+body {
+    background-color: black;
+}
+
+
