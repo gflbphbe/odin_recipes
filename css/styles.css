@@ -1,3 +1,7 @@
+html {
+  box-sizing: border-box;
+}
+
 body {
   background-color: black;
 }
@@ -15,4 +19,7 @@ h1 {
   font-size: 24px;
   text-align: center;
   color: brown;
+  margin: 50px 400px;
+  border: 1px red solid;
+  padding: 32px;
 }
