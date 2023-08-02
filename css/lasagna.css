@@ -8,6 +8,9 @@ h1 {
 .butter-chicken {
   text-align: center;
   font-size: large;
+  border: 3px red solid;
+  margin: 10px 850px;
+  padding: 20px;
 }
 
 .description-title,
